@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/diariok/static/css/main.29c04ff6.css",
+    "main.js": "/diariok/static/js/main.87ee18c3.js",
+    "static/js/453.d9d4a658.chunk.js": "/diariok/static/js/453.d9d4a658.chunk.js",
+    "index.html": "/diariok/index.html",
+    "main.29c04ff6.css.map": "/diariok/static/css/main.29c04ff6.css.map",
+    "main.87ee18c3.js.map": "/diariok/static/js/main.87ee18c3.js.map",
+    "453.d9d4a658.chunk.js.map": "/diariok/static/js/453.d9d4a658.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29c04ff6.css",
+    "static/js/main.87ee18c3.js"
+  ]
+}
